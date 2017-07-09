@@ -4,7 +4,7 @@ A test project for `jasmine helpers`
 
 
 ## Issues
-* Jasmine helpers not running
+* Jasmine helpers not running [stackoverflow question](https://stackoverflow.com/questions/44995781/jasmine-not-loading-helper-files/44996244#44996244)
 
 
 ## setup
